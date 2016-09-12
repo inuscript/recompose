@@ -11,6 +11,7 @@ Recompose
 Recompose is a React utility belt for function components and higher-order components. Think of it like lodash for React.
 
 [**Full API documentation**](docs/API.md) - Learn about each helper
+
 [**Recompose Base Fiddle**](https://jsfiddle.net/acdlite/69z2wepo/41596/) - Easy way to dive in
 
 ```
